@@ -1,0 +1,121 @@
+customer_id,name,city,signup_date
+C001,,Jaipur,
+C002,Sneha Reddy,,2023-01-03
+C003,,Ahmedabad,
+C004,Arjun Singh,Tokyo,2023-01-05
+C005,Kiran Kumar,Chennai,
+C006,Suresh Babu,Hyderabad,2023-01-07
+C007,,Bangalore,2023-01-08
+C008,Kiran Kumar,Sydney,
+C009,,Lucknow,2023-01-10
+C010,Amit Verma,,2023-01-11
+C011,Pooja Singh,Ahmedabad,2023-01-12
+C012,Kavya Nair,,2023-01-13
+C013,Kiran Kumar,Berlin,2023-01-14
+C014,Meena Iyer,,2023-01-15
+C015,Neha Gupta,Mumbai,
+C016,Varun Sharma,Delhi,2023-01-17
+C017,Varun Sharma,New York,2023-01-18
+C018,,Hyderabad,2023-01-19
+C019,Kiran Kumar,Indore,2023-01-20
+C020,Neha Gupta,Hyderabad,
+C021,Anita Sharma,Hyderabad,2023-01-22
+C022,Suresh Babu,Nagpur,2023-01-23
+C023,David Miller,Chicago,
+C024,Sneha Reddy,Chicago,2023-01-25
+C025,,,
+C026,Kiran Kumar,Kolkata,
+C027,Pooja Singh,Los Angeles,
+C028,Meena Iyer,Los Angeles,2023-01-01
+C029,,Visakhapatnam,2023-01-02
+C030,Pooja Singh,Ahmedabad,2023-01-03
+C031,Ali Khan,Delhi,2023-01-04
+C032,,New York,
+C033,David Miller,Indore,2023-01-06
+C034,Arjun Singh,Nagpur,2023-01-07
+C035,Kavya Nair,,2023-01-08
+C036,,Chicago,2023-01-09
+C037,Ali Khan,Mumbai,2023-01-10
+C038,,Ahmedabad,2023-01-11
+C039,Rahul Das,Houston,2023-01-12
+C040,John Smith,,2023-01-13
+C041,Amit Verma,Bhopal,
+C042,,Sydney,2023-01-15
+C043,,Chicago,2023-01-16
+C044,Kiran Kumar,Delhi,2023-01-17
+C045,,Chicago,2023-01-18
+C046,,New York,2023-01-19
+C047,,Chennai,2023-01-20
+C048,Kavya Nair,Tokyo,2023-01-21
+C049,,Lucknow,
+C050,Anita Sharma,,2023-01-23
+C051,,,
+C052,Ali Khan,Ahmedabad,2023-01-25
+C053,Neha Gupta,Mumbai,2023-01-26
+C054,David Miller,Jaipur,2023-01-27
+C055,Neha Gupta,Hyderabad,2023-01-28
+C056,Varun Sharma,,2023-01-01
+C057,,Pune,
+C058,Amit Verma,Ahmedabad,
+C059,Pooja Singh,Paris,2023-01-04
+C060,Pooja Singh,Bangalore,
+C061,Sneha Reddy,Sydney,2023-01-06
+C062,Arjun Singh,Pune,2023-01-07
+C063,David Miller,,2023-01-08
+C064,,Coimbatore,2023-01-09
+C065,,Bhopal,2023-01-10
+C066,,Tokyo,2023-01-11
+C067,Amit Verma,Hyderabad,
+C068,Amit Verma,Mumbai,2023-01-13
+C069,Neha Gupta,Visakhapatnam,2023-01-14
+C070,Suresh Babu,,2023-01-15
+C071,Meena Iyer,Kolkata,
+C072,Varun Sharma,Indore,2023-01-17
+C073,Neha Gupta,,2023-01-18
+C074,John Smith,Bhopal,2023-01-19
+C075,Neha Gupta,,2023-01-20
+C076,Ali Khan,Jaipur,2023-01-21
+C077,Varun Sharma,Bangalore,2023-01-22
+C078,,London,2023-01-23
+C079,Varun Sharma,,2023-01-24
+C080,Arjun Singh,Tokyo,2023-01-25
+C081,Arjun Singh,Delhi,2023-01-26
+C082,Varun Sharma,Bangalore,2023-01-27
+C083,Pooja Singh,Coimbatore,2023-01-28
+C084,,Berlin,2023-01-01
+C085,Meena Iyer,Lucknow,2023-01-02
+C086,Pooja Singh,Indore,2023-01-03
+C087,Varun Sharma,Bhopal,2023-01-04
+C088,Meena Iyer,Lucknow,2023-01-05
+C089,,Ahmedabad,2023-01-06
+C090,,Mumbai,2023-01-07
+C091,Ali Khan,Paris,2023-01-08
+C092,Deepak Yadav,,2023-01-09
+C093,Sneha Reddy,,2023-01-10
+C094,David Miller,Chicago,2023-01-11
+C095,,Bhopal,2023-01-12
+C096,Varun Sharma,Bhopal,2023-01-13
+C097,David Miller,Chicago,
+C098,John Smith,Ahmedabad,2023-01-15
+C099,David Miller,Ahmedabad,
+C100,Pooja Singh,Coimbatore,2023-01-17
+C101,,Nagpur,2023-01-18
+C102,Ali Khan,Coimbatore,2023-01-19
+C103,Arjun Singh,Nagpur,2023-01-20
+C104,Ravi Kumar,Houston,
+C105,Amit Verma,Nagpur,2023-01-22
+C106,Suresh Babu,Sydney,2023-01-23
+C107,Neha Gupta,Jaipur,
+C108,Varun Sharma,Nagpur,2023-01-25
+C109,Rahul Das,,2023-01-26
+C110,,,2023-01-27
+C111,Anita Sharma,Coimbatore,2023-01-28
+C112,Deepak Yadav,Indore,
+C113,Ravi Kumar,Mumbai,2023-01-02
+C114,Ali Khan,,
+C115,,Chennai,2023-01-04
+C116,John Smith,Houston,2023-01-05
+C117,Kiran Kumar,Kolkata,2023-01-06
+C118,Sneha Reddy,Kolkata,
+C119,Ravi Kumar,Houston,2023-01-08
+C120,Deepak Yadav,,2023-01-09
