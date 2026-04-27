@@ -1,0 +1,52 @@
+START
+  |
+  v
+Initialize System Setup
+(Roles, Users, Database)
+  |
+  v
+Ingest Data from S3
+(Snowpipe → Raw Tables)
+  |
+  v
+Apply Streams on Raw Tables
+(for CDC – Change Data Capture)
+  |
+  v
+Process Data Quality
+Validation Procedure
+  |
+  v
+Is Data Valid?
+   |                |
+  YES               NO
+   |                |
+   v                v
+Store in            Log Errors in
+Validated Layer     DQ Exception Table
+   |
+   v
+Create Tasks
+(on Procedure to Automate)
+   |
+   v
+Curated Layer Processing
+(Create SCD, DIM, FACT Tables
+using Procedures)
+   |
+   v
+Task on Curated Layer
+(Automatic Data Load)
+   |
+   v
+Create Data Marts
+   |
+   v
+KPI Generation
+   |
+   v
+Send Alert Mail
+(if Procedure Fails)
+   |
+   v
+END
